@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">NQ</string>
     <string name="action_settings">Settings</string>
+    <string name="capture">CAPTURE</string>
 </resources>
